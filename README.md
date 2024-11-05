@@ -11,8 +11,9 @@
 <img src="./img.png" alt="screenshot"/>
 
 ## ⚓ Requires
-> Python 3.x Or Python 2.x
-> colorama
+> - Python 3.x
+> - Python 2.x
+> - colorama
 
 ## ⚙️ Installation
 ```bash
