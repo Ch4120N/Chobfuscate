@@ -26,7 +26,7 @@ python Chobfuscate.py
 ```
 ### Single line installation
 ```bash
-apt update && apt install python git -y && git clone https://github.com/Ch4120N/Chobfuscate && python -m pip install colorama && python Chobfuscate.py
+apt update && apt install python git -y && git clone https://github.com/Ch4120N/Chobfuscate && python -m pip install colorama && cd Chobfuscate && python Chobfuscate.py
 ```
 ## 💻 Supported Operating Systems
 - [X] Ubuntu/Debian
