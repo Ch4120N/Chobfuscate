@@ -47,7 +47,9 @@ apt update && apt install python git -y && git clone https://github.com/Ch4120N/
 You can obfuscate your code just by entering the number you want (there is nothing special to say, you can use it very simply)
 
 ## ❤️ Donation 
-> bitcoin:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+> BITCOIN:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+> 
+> ETHEREUM:  0xfddbd535a4ad28792cbebceee3d6982d774e6d13
 
 ## ☠️ Reporting Issues
 
